@@ -4,8 +4,6 @@ const products = [
   { name: "Oranges", country: "Spain", cost: 4, instock: 3 },
   { name: "Beans", country: "USA", cost: 2, instock: 5 },
   { name: "Cabbage", country: "USA", cost: 1, instock: 8 },
-  { name: "Pomelo", country: "Israel", cost: 4, instock: 6 },
-  { name: "Peaches", country: "USA", cost: 2, instock: 7 },
 ];
 //=========Cart=============
 const Cart = (props) => {
